@@ -1,0 +1,47 @@
+
+@font-face {
+	
+	font-family : "Aaargh" ;
+	src : url("../fonts/Aaargh.ttf") format ("ttf") ;
+	
+}
+
+body {
+	
+	background : url(../images/module.png) no-repeat center fixed;
+	background-size: cover;
+	font-family : "Aaargh", sans-serif ;
+	
+}
+
+#presentation {
+	
+	color : white ;
+	text-align : center ;
+	font-size : 1.5em ;
+	margin-top : 15em ;
+
+}
+
+a {
+	
+	color : black ;
+	font-weight : bold ;
+	text-decoration : none ;
+	
+}
+
+#choix {
+	
+	background-color : white ;
+	display : flex ;
+	margin-left : 10em ;
+	width : 60em ;
+	
+}
+
+.factions {
+	
+	margin-left : 9em ;
+	
+}

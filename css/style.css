@@ -1,0 +1,61 @@
+
+@font-face {
+	
+	font-family : "Aaargh" ;
+	src : url("../fonts/Aaargh.ttf") format ("ttf") ;
+	
+}
+
+body {
+	
+	background : url(../images/buzz4K.jpg) no-repeat center fixed;
+	background-size: cover;
+	font-family : "Aaargh", sans-serif ;
+	
+}
+
+#intro {
+	
+	color : white ;
+	text-align : justify ;
+	font-size : 1.5em ;
+	margin-top : 15em ;
+
+}
+
+img {
+	
+	width : 100% ;
+	height : auto ;
+	
+}
+
+#boutonAventure {
+	
+  background-color: #242e3f ;
+  border: none;
+  padding: 0.5em 2.5em ;
+  text-align: center;
+  font-size: 16px;
+  border-radius: 30px 30px 30px 30px ;
+  margin-left : 31em ;
+  margin-top : 6em ;
+  transition-property : background-color, opacity ;
+  transition-duration : 1s ;
+	
+}
+
+a {
+	
+  color: white;
+  text-decoration : none ;
+	
+}
+
+#boutonAventure:hover {
+	
+	background-color: #70353c ;
+	opacity : 1 ;
+	cursor : pointer ;
+	
+}
