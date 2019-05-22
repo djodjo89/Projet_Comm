@@ -32,6 +32,8 @@ img {
 
 #boutonAventure {
 	
+	  color: white;
+  text-decoration : none ;
   background-color: #242e3f ;
   border: none;
   padding: 0.5em 2.5em ;
@@ -42,13 +44,6 @@ img {
   margin-top : 6em ;
   transition-property : background-color, opacity ;
   transition-duration : 1s ;
-	
-}
-
-a {
-	
-  color: white;
-  text-decoration : none ;
 	
 }
 
