@@ -32,25 +32,7 @@ img {
 
 #boutonAventure {
 	
-	  color: white;
-  text-decoration : none ;
-  background-color: #242e3f ;
-  border: none;
-  padding: 0.5em 2.5em ;
-  text-align: center;
-  font-size: 16px;
-  border-radius: 30px 30px 30px 30px ;
   margin-left : 31em ;
   margin-top : 6em ;
-  transition-property : background-color, opacity ;
-  transition-duration : 1s ;
-	
-}
-
-#boutonAventure:hover {
-	
-	background-color: #70353c ;
-	opacity : 1 ;
-	cursor : pointer ;
 	
 }
