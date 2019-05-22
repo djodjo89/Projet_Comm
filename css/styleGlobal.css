@@ -8,11 +8,11 @@
 
 body {
 	
-			font-family : "Aaargh", sans-serif ;
+	font-family : "Aaargh", sans-serif ;
 	
 }
 
-#boutonJeu {
+button {
 	
 	color: white;
   text-decoration : none ;
@@ -21,41 +21,16 @@ body {
   padding: 0.5em 2.5em ;
   text-align: center;
   font-size: 16px;
-  margin-top : 17em ;
   border-radius: 30px 30px 30px 30px ;
   transition-property : background-color, opacity ;
   transition-duration : 1s ;
 	
 }
 
-#boutonJeu:hover {
+button:hover {
 	
+	background-color: #70353c ;
+	opacity : 1 ;
 	cursor : pointer ;
-	
-}
-
-#jeu {
-	
-	display : flex ;
-	
-}
-
-h1 {
-	
-	text-align : center ;
-		font-size : 2em ;
-	
-}
-
-p {
-	
-	text-align : center ;
-	font-size : 1.5em ;
-
-}
-
-img {
-	
-	margin-left : 10em ;
 	
 }
