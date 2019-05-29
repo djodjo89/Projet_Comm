@@ -10,3 +10,7 @@ button {
 	margin-right : 2em ;
 	
 }
+
+canvas {
+	background-color:blue;
+}
