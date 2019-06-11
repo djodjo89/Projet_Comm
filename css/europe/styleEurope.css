@@ -9,7 +9,14 @@
 body {
 	
 	font-family : "Aaargh", sans-serif ;
-	background-image : url("../../images/europe/vaisseau.png") ;
+	//background-image : url("../../images/europe/vaisseau.png") ;
+	
+}
+
+#chief {
+	
+	height : 25em ;
+	width : 20em ;
 	
 }
 
@@ -32,6 +39,12 @@ body {
   transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
+#tout {
+	
+	margin-left : 5em ;
+	
+}
+
 .btn-info {
   color: #fff;
   background-color: #17a2b8;
@@ -49,6 +62,13 @@ body {
     display : flex ;
     margin-top : 4em;
     margin-left : 4em ;
+	
+}
+
+#thumbs {
+	
+	height : 20em ;
+	width : 30em ;
 	
 }
 
