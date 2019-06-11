@@ -9,14 +9,27 @@
 body {
 	
 	font-family : "Aaargh", sans-serif ;
-	//background-image : url("../../images/europe/vaisseau.png") ;
 	
+}
+
+#jungle {
+
+	width : 70em ;
+	height: 40em;
+
+}
+
+#bt {
+
+	text-align: center;
+	margin-top: 5em;
+
 }
 
 #chief {
 	
-	height : 25em ;
-	width : 20em ;
+	height : 45em ;
+	width : 35em ;
 	
 }
 
@@ -67,8 +80,8 @@ body {
 
 #thumbs {
 	
-	height : 20em ;
-	width : 30em ;
+	height : 30em ;
+	width : 45em ;
 	
 }
 
