@@ -25,23 +25,58 @@ body {
 
 a {
 	
-	color : black ;
 	font-weight : bold ;
-	text-decoration : none ;
 	
 }
 
 #choix {
 	
-	background-color : white ;
+    background-color : #17a2b8 ;
 	display : flex ;
 	margin-left : 10em ;
-	width : 60em ;
+    width : 55em ;
+    border-radius: 4px 4px 4px 4px;
+    display: flex;
 	
 }
 
+#choix:hover {
+
+    border-color: #117a8b;
+
+}
+
+#usa {
+    border-radius: 4px 0px 0px 4px;
+}
+
+#russie {
+    border-radius: 0px 4px 4px 0px;
+}
+
 .factions {
+    
+    color: white;
+    width: 220px;
+    padding : 5px;
+    padding-left: 5em;
 	
-	margin-left : 9em ;
-	
+}
+
+.factions:hover {
+  cursor: pointer;
+  color: #fff;
+  background-color: #138496;
+  border-color: #117a8b;
+}
+
+.liensFactions:hover {
+
+    color: white;
+    text-decoration: none;
+
+}
+
+.liensFactions {
+        color: white;
 }
