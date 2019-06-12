@@ -19,3 +19,10 @@ canvas {
   image-rendering: -webkit-optimize-contrast;
   image-rendering: optimize-contrast
 }
+
+#b {
+
+	margin-top : 5em ;
+	margin-left : 5em ;
+
+}

@@ -14,6 +14,13 @@ body {
 	
 }
 
+#divEmbetant {
+
+	margin-top : 22% ;
+	margin-left : 0em ;
+
+}
+
 #intro {
 	
 	color : white ;
@@ -32,7 +39,8 @@ img {
 
 #boutonAventure {
 	
-  margin-left : 31em ;
-  margin-top : 6em ;
+  margin-left : 34% ;
+  margin-top : 13% ;
+  width : 15em ;
 	
 }
