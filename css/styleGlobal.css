@@ -26,7 +26,28 @@ button {
   transition-duration : 1s ;
 	
 }
-
+.tab {
+	margin:auto;
+}
+#cont {
+	display:flex;
+}
+.divBtn {
+	display:flex;
+}
+.column {
+	float:left;
+	width:50%;
+}
+#cont:hover {
+	
+	background-color: #fdd011 ;
+	
+}
+p {
+	display:inline-block;
+	margin:auto;
+}
 button:hover {
 	
 	background-color: #70353c ;
